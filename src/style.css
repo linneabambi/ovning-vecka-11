@@ -1,3 +1,9 @@
+.font-cursive {
+  font-family: "Parisienne", cursive;
+}
+.font-flower {
+  font-family: "Indie Flower", cursive;
+}
 .nav-icon {
   width: 50px;
 }
@@ -41,4 +47,13 @@ p {
 }
 ul {
   list-style: none;
+}
+.div-1 {
+  background-color: antiquewhite;
+}
+a {
+  color: sienna;
+}
+span {
+  color: sienna;
 }
