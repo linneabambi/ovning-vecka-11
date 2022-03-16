@@ -51,9 +51,20 @@ ul {
 .div-1 {
   background-color: antiquewhite;
 }
-a {
+.contact-link {
   color: sienna;
+}
+.fika-knapp {
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+.fika-knapp:hover {
+  color: white;
 }
 span {
   color: sienna;
+}
+
+@media (max-width: 600px) {
 }
