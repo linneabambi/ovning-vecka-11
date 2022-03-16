@@ -66,5 +66,8 @@ span {
   color: sienna;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 960px) {
+  .img-index {
+    margin-top: 20px;
+  }
 }
